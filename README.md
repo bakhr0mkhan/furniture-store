@@ -4,6 +4,7 @@
 
 ## Image
 https://i.ibb.co/QfZQbSK/ecommerce-full-page-screen.png
+![Furniture store website](https://i.ibb.co/QfZQbSK/ecommerce-full-page-screen.png)
 
 
 ## Live demo
